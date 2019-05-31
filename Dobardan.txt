@@ -1,2 +1,6 @@
+
 Danas je lep dan,
 ali ce padati kisa
+Danas je lep dan.
+bas neki drugi tekst
+
