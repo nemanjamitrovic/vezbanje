@@ -1,1 +1,2 @@
-Danas je lep dan.
+Danas je lep dan,
+ali ce padati kisa
